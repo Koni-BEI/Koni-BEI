@@ -1,6 +1,6 @@
 # Koni
 
-Researcher and developer. I build tools for data analysis and work in fermentation biology and bioinformatics for my PhD.
+Researcher and developer. I build tools for data analysis and work in fermentation biology, chemistry, bioinformatics and now exploring ML for my PhD.
 
 ## Projects
 
