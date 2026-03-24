@@ -1,16 +1,19 @@
-## Hi there 👋
+# Koni
 
-<!--
-**Koni-BEI/Koni-BEI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher and developer. I build tools for data analysis and work in fermentation biology and bioinformatics for my PhD.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Check App](https://github.com/Koni-BEI/check-app)** — Python desktop app for sample analysis, QC checks, and data verification. Built with Tkinter.
+
+**[The Ingredient Lab](https://github.com/Koni-BEI/The_Ingredient_Lab)** — Next.js web app for researching and comparing food ingredients. Live on Vercel.
+
+**[PhD Research](https://github.com/Koni-BEI/phd-research)** — Python scripts and analysis code from my PhD in fermentation biology and bioinformatics.
+
+## Skills
+
+Python · Next.js · React · Data Analysis · Bioinformatics · Tkinter · JavaScript
+
+## Contact
+
+[bei.koni@gmail.com](mailto:bei.koni@gmail.com)
