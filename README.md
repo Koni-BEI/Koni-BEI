@@ -12,7 +12,7 @@ Cross-domain researcher. I build tools for data analysis and work in biology, ch
 
 ## Skills
 
-Python · Next.js · React · Data Analysis · Bioinformatics · Tkinter · JavaScript
+Python · Building on React · Data Analysis · Bioinformatics · JavaScript
 
 ## Contact
 
